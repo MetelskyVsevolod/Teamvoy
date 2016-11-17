@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 744163368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12fed58520fcb23713b1628d7bd5ac1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c65e2767630221ebf989e08e1652804b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Animations/cylinder.anim
+- Assets/Resources/Animations/Cylinder.controller
+- Assets/Resources/Animations/capsule.anim
+- Assets/Resources/Animations/cubeRotating.anim
+- Assets/Resources/Animations/animatedSphere.controller
+- Assets/Resources/Animations/sphereScaling.anim
+- Assets/Resources/Animations/animatedObject.controller
+- Assets/Resources/Animations/Capsule.controller
+Dependencies: []

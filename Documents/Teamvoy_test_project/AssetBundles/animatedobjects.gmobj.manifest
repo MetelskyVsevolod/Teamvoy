@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3171276624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b722bbee96c73d31fade42be4f6e2aae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13c046656939100cff13cdaf1d216f09
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/animatedObjects/animatedCylinder.prefab
+- Assets/Resources/Prefabs/animatedObjects/aniimatedCapsule.prefab
+- Assets/Resources/Prefabs/animatedObjects/animatedCube.prefab
+- Assets/Resources/Prefabs/animatedObjects/animatedSphere.prefab
+Dependencies:
+- AssetBundles/animations.anim

@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 348785838
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animations.anim
+      Dependencies: {}
+    Info_1:
+      Name: animatedobjects.gmobj
+      Dependencies:
+        Dependency_0: animations.anim
